@@ -1,0 +1,4 @@
+Ingriacoin
+==========
+
+Ingriacoin source
